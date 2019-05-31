@@ -1,5 +1,5 @@
 <?php
-   echo "Hola mundo\n";
-   echo "Hace un buen día para estudiar TIC\n";
-   echo "Soy Ángel y hoy tengo un buen día";
+for($i=0,$i<90;$i=$i+1)
+{ echo "En grados:";
+echo
  <?
