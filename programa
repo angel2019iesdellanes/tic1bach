@@ -1,5 +1,6 @@
 <?php
-for($i=0,$i<90;$i=$i+1)
+for($i=0; $i<90 ;$i=$i+1)
 { echo "En grados:";
 echo
- <?
+}
+ ?>
